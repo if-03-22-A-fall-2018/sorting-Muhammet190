@@ -12,6 +12,9 @@
  */
 #ifndef ___STOPWATCH_H
 #define ___STOPWATCH_H
+void start_stopwatch();
+void stop_stopwatch();
+float elapsed_time();
 
 /**
 *** @file stopwatch.h
